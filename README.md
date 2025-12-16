@@ -1,2 +1,2 @@
 # pyspark-ejercicio
-Contiene resolución notebook
+Este repositorio contiene la resolución de notebook.
